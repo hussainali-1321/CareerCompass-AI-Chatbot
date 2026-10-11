@@ -1,0 +1,15 @@
+.venv/
+**/.venv/
+.vscode/
+__pycache__/
+*.py[cod]
+.env
+*.gguf
+*.safetensors
+*.bin
+*.pt
+*.pth
+CareerCompass_QLoRA/
+qwen-career-compass-final/
+Resume.csv
+model/
